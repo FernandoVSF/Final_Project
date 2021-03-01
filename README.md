@@ -18,12 +18,13 @@ We will analyse how changes in market data impacts market prices to explain thei
   All technology aspects will be treated in technology.md file
   
 ## Database
+  Data will intially be extracted from Bloomberg files (bbg format), and transformed into SQL
 
 ### Schema
 
+- Raw Data
 
-
-## Technology
+   ![Schema](/schema.png)
 
 ## Results
 
