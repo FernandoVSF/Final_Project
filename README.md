@@ -16,6 +16,14 @@ We will analyse how changes in market data impacts market prices to explain thei
   
 ## Technology
   All technology aspects will be treated in technology.md file
+  
+## Database
+
+### Schema
+
+
+
+## Technology
 
 ## Results
 
