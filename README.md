@@ -13,6 +13,9 @@ We will analyse how changes in market data impacts market prices to explain thei
 
 ## Note on Branches
   As this is a solo project, no brances are necessary
+  
+## Technology
+  All technology aspects will be treated in technology.md file
 
 ## Results
 
