@@ -8,6 +8,9 @@ We will analyse how changes in market data impacts market prices to explain thei
 - Data Source: Bloomberg, CapitalIQ, Haver
 - Software: Python, Jupyter Notebook, SQL
 
+## Note
+  As this is a solo project, no brances are necessary
+
 ## Results
 
   
