@@ -24,10 +24,6 @@ We will analyse how changes in market data impacts market prices to explain thei
 
 - Raw Data
 
-   ![Schema](/schema.png)
+   ![Schema](/Schema.png)
 
-## Results
-
-  
-## Summary
 
