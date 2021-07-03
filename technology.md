@@ -3,10 +3,10 @@
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
 ## Database Storage
-PostgreSQL is the database we intend to use, and data will be displayed in Jupyter Notebook
+Data will be storage in memory, using Panda's Dataframes.
 
 ## Machine Learning
-SciKitLearn is the ML library we'll be using to create a classifier. 
+SciKitLearn is the ML library we'll be using for the PCA calculation. 
 
 ## Dashboard
-In addition to Jupyter Motebook, Dashboard will be built in Tableau.
+In addition to Jupyter Motebook, Dashboard will be built in Powerpoint.
